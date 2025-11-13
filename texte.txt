@@ -1,2 +1,4 @@
 test merger conflict
 
+Charisse a modifié le texte :)
+
